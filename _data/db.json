@@ -1,0 +1,20 @@
+{
+  "news": [
+    {
+      "id": 0,
+      "text": "first piece of news"
+    },
+    {
+      "id": 1,
+      "text": "second piece of news"
+    },
+    {
+      "id": 2,
+      "text": "third piece of news"
+    },
+    {
+      "id": 3,
+      "text": "fourth piece of news"
+    }
+  ]
+}
